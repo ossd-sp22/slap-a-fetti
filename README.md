@@ -16,7 +16,7 @@ See CONTRIBUTING.md.
 
 ## **License**
 
-See LICENSE.md.
+See [LICENSE.md.](https://github.com/ossd-sp22/slap-a-stache/blob/7d1e48a7f55e4295f4edc2252cdb751df6e02bfd/LICENSE)
 
 ![147-1479120_cartoon-man-with-mustache-clip-art-at-clker](https://user-images.githubusercontent.com/60750284/152899582-d4b36113-37de-4254-8635-efaefd245c82.png)
 
