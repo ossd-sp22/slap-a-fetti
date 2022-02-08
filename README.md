@@ -12,7 +12,7 @@ To be determined....
 
 ## **Contributing**
 
-See CONTRIBUTING.md.
+See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-stache/blob/004e1c0917168878769d9f2383bcaced69af4e6a/CONTRIBUTING.md)
 
 ## **License**
 
