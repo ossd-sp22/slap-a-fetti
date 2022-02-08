@@ -5,6 +5,7 @@
 ## **About**
 
 Bored? Want to vandalize your friend’s face? A celebrity’s face? We got you covered. Slap-a-stache is an extension that uses facial recognition to determine if a mustache can be applied.
+
 Want to slap something else on someone’s face? Feel free to contribute to our project!
 
 ## **Getting Started**
