@@ -1,4 +1,4 @@
-# slap-a-stache
+# slap-a-fetti
 
 ## **About**
 
@@ -18,5 +18,4 @@ See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-stache/blob/004e1c091
 ## **License**
 
 See [LICENSE](https://github.com/ossd-sp22/slap-a-stache/blob/7d1e48a7f55e4295f4edc2252cdb751df6e02bfd/LICENSE)
-
 
