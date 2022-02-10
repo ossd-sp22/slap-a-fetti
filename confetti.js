@@ -1,3 +1,5 @@
+// Code adapted from https://codepen.io/acash/pen/zzBVPW
+
 var inc = 1;
 
 function _(id){
