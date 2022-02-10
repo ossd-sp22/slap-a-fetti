@@ -19,3 +19,6 @@ See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-stache/blob/004e1c091
 
 See [LICENSE](https://github.com/ossd-sp22/slap-a-stache/blob/7d1e48a7f55e4295f4edc2252cdb751df6e02bfd/LICENSE)
 
+## **Other**
+
+The confetti in our extension has been adapted from [CodePen] (https://codepen.io/acash/pen/zzBVPW)
