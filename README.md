@@ -21,4 +21,4 @@ See [LICENSE](https://github.com/ossd-sp22/slap-a-stache/blob/7d1e48a7f55e4295f4
 
 ## **Other**
 
-The confetti in our extension has been adapted from [CodePen] (https://codepen.io/acash/pen/zzBVPW)
+The confetti in our extension has been adapted from [CodePen](https://codepen.io/acash/pen/zzBVPW)
