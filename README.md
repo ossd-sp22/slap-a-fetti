@@ -18,7 +18,7 @@ See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-stache/blob/004e1c091
 ## **Installation** 
 
 ### Set Up 
-Make sure to have [nodeJS](https://nodejs.org/en/) and [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) installed.  
+Make sure to have [NodeJS](https://nodejs.org/en/) and [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) installed.  
 
 ### Clone Repository 
 ```bash
