@@ -29,7 +29,7 @@ $ git clone https://github.com/ossd-sp22/slap-a-fetti
 In your firefox browser, type ```about:debugging``` into the search engine. You will be directed to the set up page. Click on the 'This Firefox' section in the left panel. 
 
 ### Load Temporary Add-On
-Locate the Temporary Extension Section at the top of the page. Click on 'Load Temporary Add-On'. Locate  the slap-a-fetti folder and select the confetti.js file. 
+Locate the Temporary Extension Section at the top of the page. Click on 'Load Temporary Add-On'. Locate  the slap-a-fetti folder and select the manifest.json file. 
 
 ### Using the Extension 
 You can find the extension in the top right corner of the toolbar. Access the [Mozilla Homepage](https://www.mozilla.org/en-US/) and enjoy the confetti! 
