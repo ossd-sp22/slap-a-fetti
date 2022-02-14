@@ -26,7 +26,7 @@ $ git clone https://github.com/ossd-sp22/slap-a-fetti
 ```
 
 #### Access Firefox Browser
-In your firefox browser, type ```about:debugging``` into the search engine. You will be directed to the [setup page](about:debugging#/setup). Click on the "This Firefox" section in the left panel. You will be directed to the [runtime page](about:debugging#/runtime/this-firefox). 
+In your firefox browser, type ```about:debugging``` into the search engine. You will be directed to the set up page. Click on the "This Firefox" section in the left panel. 
 
 #### Load Temporary Add-On
 Locate the Temporary Extension Section at the top of the page. Click on 'Load Temporary Add-On'. Locate the directory the slap-a-fetti repository was cloned into and find the slap-a-fetti folder. Select the confetti.js file. 
