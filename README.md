@@ -13,7 +13,7 @@ To be determined....
 
 ## **Contributing**
 
-See [CONTRIBUTING.md.]https://github.com/ossd-sp22/slap-a-fetti/blob/ae04bbd73218f3ea409915b1cb8fee83ab6d25b8/CONTRIBUTING.md)
+See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-fetti/blob/ae04bbd73218f3ea409915b1cb8fee83ab6d25b8/CONTRIBUTING.md)
 
 ## **Installation** 
 
