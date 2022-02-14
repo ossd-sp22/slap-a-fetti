@@ -17,21 +17,21 @@ See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-stache/blob/004e1c091
 
 ## **Installation** 
 
-#### Set Up 
+### Set Up 
 Make sure to have [nodeJS](https://nodejs.org/en/) and [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) installed.  
 
-#### Clone Repository 
+### Clone Repository 
 ```bash
 $ git clone https://github.com/ossd-sp22/slap-a-fetti
 ```
 
-#### Access Firefox Browser
-In your firefox browser, type ```about:debugging``` into the search engine. You will be directed to the set up page. Click on the "This Firefox" section in the left panel. 
+### Access Firefox Browser
+In your firefox browser, type ```about:debugging``` into the search engine. You will be directed to the set up page. Click on the 'This Firefox' section in the left panel. 
 
-#### Load Temporary Add-On
-Locate the Temporary Extension Section at the top of the page. Click on 'Load Temporary Add-On'. Locate the directory the slap-a-fetti repository was cloned into and find the slap-a-fetti folder. Select the confetti.js file. 
+### Load Temporary Add-On
+Locate the Temporary Extension Section at the top of the page. Click on 'Load Temporary Add-On'. Locate  the slap-a-fetti folder and select the confetti.js file. 
 
-#### Using the Extension 
+### Using the Extension 
 You can find the extension in the top right corner of the toolbar. Access the [Mozilla Homepage](https://www.mozilla.org/en-US/) and enjoy the confetti! 
 
 
