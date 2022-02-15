@@ -1,3 +1,5 @@
+We love contributions! Follow this document to see how to get involved.
+
 ## Types of contribution
 ### Report a bug
 
