@@ -7,10 +7,6 @@ Friend stepped away from their device? Annoy them by throwing their browser into
 Now, go and slap some confetti on that browser. Or, you can contribute with other ideas!
 
 
-## **Getting Started**
-
-To be determined.... 
-
 ## **Contributing**
 
 See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-fetti/blob/ae04bbd73218f3ea409915b1cb8fee83ab6d25b8/CONTRIBUTING.md)
