@@ -6,11 +6,6 @@ Friend stepped away from their device? Annoy them by throwing their browser into
 
 Now, go and slap some confetti on that browser. Or, you can contribute with other ideas!
 
-
-## **Contributing**
-
-See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-fetti/blob/ae04bbd73218f3ea409915b1cb8fee83ab6d25b8/CONTRIBUTING.md)
-
 ## **Installation** 
 
 ### Set Up 
@@ -29,6 +24,10 @@ Locate the Temporary Extension Section at the top of the page. Click on 'Load Te
 
 ### Using the Extension 
 You can find the extension in the top right corner of the toolbar. Access the [Mozilla Homepage](https://www.mozilla.org/en-US/) and enjoy the confetti! 
+
+## **Contributing**
+
+See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-fetti/blob/ae04bbd73218f3ea409915b1cb8fee83ab6d25b8/CONTRIBUTING.md)
 
 ## **Code of Conduct**
 See [Code of Conduct.md](https://github.com/ossd-sp22/slap-a-fetti/blob/4fbcb424b61fc63c91ad069fdab30df7f7302f4b/CODE_OF_CONDUCT.md)
