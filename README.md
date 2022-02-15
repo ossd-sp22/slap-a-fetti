@@ -27,7 +27,7 @@ You can find the extension in the top right corner of the toolbar. Access the [M
 
 ## **Contributing**
 
-See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-fetti/blob/ae04bbd73218f3ea409915b1cb8fee83ab6d25b8/CONTRIBUTING.md)
+See [CONTRIBUTING.md.](https://github.com/ossd-sp22/slap-a-fetti/blob/04e21a515e486a346e6c02f7204451b79d2156e4/CONTRIBUTING.md)
 
 ## **Code of Conduct**
 See [Code of Conduct.md](https://github.com/ossd-sp22/slap-a-fetti/blob/4fbcb424b61fc63c91ad069fdab30df7f7302f4b/CODE_OF_CONDUCT.md)
