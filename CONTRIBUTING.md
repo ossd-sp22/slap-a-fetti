@@ -3,7 +3,8 @@
 
 - Open an [issue]([https://github.com/ossd-sp22/slap-a-fetti/issues](https://github.com/ossd-sp22/slap-a-fetti/issues)).
 - Make sure to includes detailed descriptions of the issues’ context and possible solutions.
-- if you don’t know how to code or you are new to github. No worries, email our project team at [ts3516@nyu.edu](mailto:ts3516@nyu.edu) or [rz1424@nyu.edu](mailto:rz1424@nyu.edu).
+- If you don’t know how to code or you are new to github. No worries, email our project team at [ts3516@nyu.edu](mailto:ts3516@nyu.edu) or [rz1424@nyu.edu](mailto:rz1424@nyu.edu).
+- Unfortunately, our extension lacks consistency, the effect only shows up on certain websites. We've collected a list of websites that our extension can't support, Feel feel to add more at [here](https://github.com/ossd-sp22/slap-a-fetti/issues/4). 
 
 ### Fix an issue
 
