@@ -21,4 +21,7 @@
 
 - We welcome contributers from all around the world! If you wish to contribute to our project by adding translations to our code and docs, submit a [pull request](https://github.com/ossd-sp22/slap-a-fetti/pulls) and we will review it. 
 
+## Guidlines
+All contributor should be complied to our [License](https://github.com/ossd-sp22/slap-a-stache/blob/7d1e48a7f55e4295f4edc2252cdb751df6e02bfd/LICENSE) and [Code of Conduct](https://github.com/ossd-sp22/slap-a-fetti/blob/11f9cb5bae12616be667404f6d3edaf1905bbc7a/CODE_OF_CONDUCT.md)
+
 
