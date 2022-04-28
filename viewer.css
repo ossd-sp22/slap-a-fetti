@@ -3,7 +3,8 @@
 body{
     background-color: transparent;
   }
-  div{
+  /* make each piece of paper fall down like confetti */
+  .paper1, .paper2, .paper3, .paper4, .paper5, .paper6, .paper7{
     width: 10px;
     height: 10px;
     position: fixed;
